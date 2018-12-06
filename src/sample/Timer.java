@@ -1,4 +1,4 @@
-package sample;
+/*package sample;
 
 import javafx.application.Platform;
 import javafx.scene.control.Button;
@@ -40,3 +40,4 @@ public class Timer extends Thread {
 
 
 }
+*/
