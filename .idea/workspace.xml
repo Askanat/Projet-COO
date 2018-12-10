@@ -6,336 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ee597ef-6652-4c2c-878a-f22def9c2573" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/.idea/uiDesigner.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/.project" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/.classpath" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/.gitattributes" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/.idea/libraries/Sokoban_draft.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/.idea/libraries/lib.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/.idea/libraries/lib1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/.project" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/Sokoban-master.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/bin/application/application.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/build.fxbuild" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/build.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/build/built-jar.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/build/classes/application/application.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/data/level1.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/data/level2.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/data/level3.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/data/level4.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/data/level5.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/data/level6.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/data/level7.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/data/properties.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/data/properties_schema.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/dist/Sokoban_draft.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/dist/Sokoban_draft.jnlp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/dist/web-files/dtjava.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/dist/web-files/error.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/dist/web-files/get_java.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/dist/web-files/get_javafx.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/dist/web-files/javafx-chrome.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/dist/web-files/javafx-loading-100x100.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/dist/web-files/javafx-loading-25x25.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/dist/web-files/upgrade_java.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/dist/web-files/upgrade_javafx.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/EN_Exit.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/EN_Game.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/EN_Help.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/EN_Stats.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/Sokoban.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/SokobanSplashScreen.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/back.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/box.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/level_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/level_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/level_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/level_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/level_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/level_6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/level_7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/place.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/stats.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/time.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/undo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/images/wall.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/media/hitwall.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/media/move.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/media/win.mp3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/nbproject/build-impl.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/nbproject/configs/Run_as_WebStart.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/nbproject/configs/Run_in_Browser.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/nbproject/configs/__WebStart_____.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/nbproject/configs/_______.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/nbproject/genfiles.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/nbproject/jfx-impl.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/nbproject/private/configs/Run_as_WebStart.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/nbproject/private/configs/Run_in_Browser.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/nbproject/private/configs/__WebStart_____.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/nbproject/private/configs/_______.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/nbproject/private/private.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/nbproject/private/private.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/nbproject/project.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/nbproject/project.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.classpath" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.gitattributes" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.idea/compiler.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.idea/description.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.idea/encodings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.idea/gradle.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.idea/libraries/Sokoban_draft.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.idea/libraries/lib.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.idea/libraries/lib1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.idea/uiDesigner.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.project" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/Rapport Projet.odt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/Sokoban-master.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/bin/application/application.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/build.fxbuild" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/build.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/build/built-jar.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/build/classes/application/application.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/data/level1.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/data/level2.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/data/level3.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/data/level4.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/data/level5.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/data/level6.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/data/level7.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/data/properties.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/data/properties_schema.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/dist/Sokoban_draft.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/dist/Sokoban_draft.jnlp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/dist/web-files/dtjava.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/dist/web-files/error.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/dist/web-files/get_java.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/dist/web-files/get_javafx.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/dist/web-files/javafx-chrome.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/dist/web-files/javafx-loading-100x100.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/dist/web-files/javafx-loading-25x25.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/dist/web-files/upgrade_java.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/dist/web-files/upgrade_javafx.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/EN_Exit.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/EN_Game.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/EN_Help.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/EN_Stats.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/Sokoban.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/SokobanSplashScreen.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/back.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/box.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/level_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/level_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/level_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/level_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/level_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/level_6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/level_7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/place.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/stats.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/time.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/undo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/images/wall.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/media/hitwall.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/media/move.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/media/win.mp3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/nbproject/build-impl.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/nbproject/configs/Run_as_WebStart.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/nbproject/configs/Run_in_Browser.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/nbproject/configs/__WebStart_____.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/nbproject/configs/_______.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/nbproject/genfiles.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/nbproject/jfx-impl.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/nbproject/private/configs/Run_as_WebStart.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/nbproject/private/configs/Run_in_Browser.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/nbproject/private/configs/__WebStart_____.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/nbproject/private/configs/_______.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/nbproject/private/private.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/nbproject/private/private.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/nbproject/project.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/nbproject/project.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/out/production/Sokoban-master/stat.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Example Sokoban/stat.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Projet-COO.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Rapport Projet.odt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/Sokoban-master.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/bin/application/application.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/build.fxbuild" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/build.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/build/built-jar.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/build/classes/application/application.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/data/level1.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/data/level2.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/data/level3.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/data/level4.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/data/level5.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/data/level6.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/data/level7.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/data/properties.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/data/properties_schema.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/dist/Sokoban_draft.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/dist/Sokoban_draft.jnlp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/dist/web-files/dtjava.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/dist/web-files/error.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/dist/web-files/get_java.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/dist/web-files/get_javafx.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/dist/web-files/javafx-chrome.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/dist/web-files/javafx-loading-100x100.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/dist/web-files/javafx-loading-25x25.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/dist/web-files/upgrade_java.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/dist/web-files/upgrade_javafx.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/EN_Exit.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/EN_Game.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/EN_Help.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/EN_Stats.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/Sokoban.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/SokobanSplashScreen.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/back.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/box.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/level_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/level_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/level_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/level_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/level_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/level_6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/level_7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/place.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/stats.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/time.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/undo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/images/wall.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/media/hitwall.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/media/move.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/media/win.mp3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/nbproject/build-impl.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/nbproject/configs/Run_as_WebStart.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/nbproject/configs/Run_in_Browser.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/nbproject/configs/__WebStart_____.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/nbproject/configs/_______.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/nbproject/genfiles.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/nbproject/jfx-impl.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/nbproject/private/configs/Run_as_WebStart.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/nbproject/private/configs/Run_in_Browser.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/nbproject/private/configs/__WebStart_____.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/nbproject/private/configs/_______.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/nbproject/private/private.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/nbproject/private/private.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/nbproject/project.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/nbproject/project.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projet-COO/stat.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.classpath" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.gitattributes" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.idea/compiler.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.idea/description.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.idea/encodings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.idea/gradle.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.idea/libraries/Sokoban_draft.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.idea/libraries/lib.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.idea/libraries/lib1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.idea/uiDesigner.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.project" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/Projet-COO.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/Rapport Projet.odt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/Sokoban-master.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/bin/application/application.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/build.fxbuild" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/build.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/build/built-jar.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/build/classes/application/application.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/data/level1.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/data/level2.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/data/level3.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/data/level4.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/data/level5.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/data/level6.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/data/level7.sok" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/data/properties.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/data/properties_schema.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/dist/Sokoban_draft.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/dist/Sokoban_draft.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/dist/Sokoban_draft.jnlp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/dist/lib/PropertiesManager.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/dist/lib/XMLUtilities.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/dist/web-files/dtjava.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/dist/web-files/error.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/dist/web-files/get_java.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/dist/web-files/get_javafx.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/dist/web-files/javafx-chrome.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/dist/web-files/javafx-loading-100x100.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/dist/web-files/javafx-loading-25x25.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/dist/web-files/upgrade_java.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/dist/web-files/upgrade_javafx.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/EN_Exit.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/EN_Game.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/EN_Help.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/EN_Stats.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/Sokoban.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/SokobanSplashScreen.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/back.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/box.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/level_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/level_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/level_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/level_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/level_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/level_6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/level_7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/place.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/stats.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/time.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/undo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/images/wall.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/lib/PropertiesManager.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/lib/XMLUtilities.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/media/hitwall.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/media/move.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/media/win.mp3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/nbproject/build-impl.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/nbproject/configs/Run_as_WebStart.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/nbproject/configs/Run_in_Browser.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/nbproject/configs/__WebStart_____.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/nbproject/configs/_______.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/nbproject/genfiles.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/nbproject/jfx-impl.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/nbproject/private/configs/Run_as_WebStart.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/nbproject/private/configs/Run_in_Browser.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/nbproject/private/configs/__WebStart_____.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/nbproject/private/configs/_______.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/nbproject/private/private.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/nbproject/private/private.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/nbproject/project.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/nbproject/project.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sokoban-master/stat.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/stat.txt" afterPath="$PROJECT_DIR$/stat.txt" />
-    </list>
+    <list default="true" id="8ee597ef-6652-4c2c-878a-f22def9c2573" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -383,12 +54,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sokoban_draft.jnlp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sokoban_draft.jnlp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/Sokoban_draft.jnlp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MonteurScene.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MonteurScene.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <folding>
+                <element signature="e#271#279#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -418,6 +101,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/FacadeModele.java" />
         <option value="$PROJECT_DIR$/src/ModeleConcret.java" />
+        <option value="$PROJECT_DIR$/src/MonteurScene.java" />
       </list>
     </option>
   </component>
@@ -428,8 +112,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-471" />
-    <option name="y" value="-16" />
+    <option name="x" value="-1563" />
+    <option name="y" value="-22" />
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
@@ -451,6 +135,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -490,9 +177,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -598,14 +282,16 @@
       <workItem from="1543408099905" duration="278000" />
       <workItem from="1544193670015" duration="1720000" />
       <workItem from="1544458921142" duration="140000" />
+      <workItem from="1544466547931" duration="61000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5338000" />
+    <option name="totallyTimeSpent" value="5399000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -619,7 +305,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2585288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26119402" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -649,16 +335,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SokobanFileLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SokobanGameData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3808">
@@ -951,6 +627,16 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MonteurScene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="e#271#279#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
