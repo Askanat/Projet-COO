@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Sokoban_draft">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/dist/Sokoban_draft.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
