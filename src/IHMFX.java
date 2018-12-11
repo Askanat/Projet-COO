@@ -1,11 +1,9 @@
 package src;
 
 import javafx.application.Platform;
-import javafx.geometry.Pos;
+
 import java.io.IOException;
 import properties_manager.PropertiesManager;
-import src.SokobanUI;
-import src.MonteurScene;
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;

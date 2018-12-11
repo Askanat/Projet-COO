@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Sokoban-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Sokoban_master_jar/Sokoban-master.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
